@@ -1,0 +1,3 @@
+target/liberty/wlp/usr/servers/defaultServer/samplemicroclimatevote.zip	usr/src/samplemicroclimatevote
+terraform/scripts/install.sh	usr/src/samplemicroclimatevote
+terraform/scripts/start.sh		usr/src/samplemicroclimatevote
